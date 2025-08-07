@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\bin\Debug\net8.0\AccesModifierLabTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\bin\Debug\net8.0\AccesModifierLabTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\bin\Debug\net8.0\AccesModifierLabTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\bin\Debug\net8.0\AccesModifierLabTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\bin\Debug\net8.0\AccesModifierLabTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\refint\AccesModifierLabTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\AccesModifierLabTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AccesModifierLabTask\obj\Debug\net8.0\ref\AccesModifierLabTask.dll
